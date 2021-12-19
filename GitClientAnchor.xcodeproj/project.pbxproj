@@ -92,7 +92,7 @@
 		2A6DAFE0276B840100CE47B1 /* Repos */ = {
 			isa = PBXGroup;
 			children = (
-				2A6DAFDE276B835000CE47B1 /* ReposTableViewCell.swift */,
+				2ACF48DF276F2FB7000DB57C /* ReposCell */,
 				DD0A069B27653F5C00FBF4A6 /* ReposViewController.swift */,
 			);
 			path = Repos;
@@ -105,6 +105,14 @@
 				DD63E0F727672F00003AA0C1 /* DetailViewController.swift */,
 			);
 			path = Detail;
+			sourceTree = "<group>";
+		};
+		2ACF48DF276F2FB7000DB57C /* ReposCell */ = {
+			isa = PBXGroup;
+			children = (
+				2A6DAFDE276B835000CE47B1 /* ReposTableViewCell.swift */,
+			);
+			path = ReposCell;
 			sourceTree = "<group>";
 		};
 		DD63E0F92767301E003AA0C1 /* ReposVC */ = {
