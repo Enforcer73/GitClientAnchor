@@ -1,0 +1,6 @@
+framework module Pods_GitClientAnchor {
+  umbrella header "Pods-GitClientAnchor-umbrella.h"
+
+  export *
+  module * { export * }
+}
